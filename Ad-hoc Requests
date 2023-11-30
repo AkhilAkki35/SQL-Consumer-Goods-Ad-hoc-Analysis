@@ -1,1 +1,22 @@
-
+# Request 1
+-- 1. List of markets in which customer "Atliq Exlcusive" operates business in the APAC region
+# Request 2
+-- 2. What is the percentage of unique product increase in 2021 vs 2020?
+# Request 3
+-- 3. A report on all unique products for each segment, sorted in descending order.
+# Request 4
+-- 4. segment wise unique product percentage change
+# Request 5
+-- 5. Products with highest and lowest manufacturing cost
+# Request 6
+-- 6. A report which contains top 5 customers who received an average high pre_invoice_discount_pct 
+-- for the fiscal_year 2021 and in the Indian market
+# Request 7
+-- 7. A complete report of Gross sales amount for the customer "Atliq Exclusive" for each month
+-- This analysis helps to get an idea of low and high-performing months and take strategic decisions
+# Request 8
+-- 8. 2020 Quarter with maximum quantities sold
+# Request 9
+-- 9. Channel with more gross sales in 2021 and percentage contributions
+# Request 10
+-- 10. Top 3 products  in each division that has high total_sold_quantity for fiscal year 2021
