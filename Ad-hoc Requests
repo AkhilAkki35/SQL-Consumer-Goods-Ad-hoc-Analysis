@@ -7,7 +7,10 @@ where customer="Atliq Exclusive" and region="APAC"
 group by market
 
 
-# Request 2
+# Request 2SELECT market 
+FROM dim_customer
+where customer="Atliq Exclusive" and region="APAC"
+group by market
 -- 2. What is the percentage of unique product increase in 2021 vs 2020?
 
 SELECT X.A AS unique_product_2020, Y.B AS unique_products_2021, ROUND((B-A)*100/A, 2) AS percentage_chg
